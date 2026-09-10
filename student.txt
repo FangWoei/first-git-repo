@@ -1,0 +1,5 @@
+Name: Foo Fang Woei 
+
+Course: MAL2017
+
+Lab: Git and GitHub
